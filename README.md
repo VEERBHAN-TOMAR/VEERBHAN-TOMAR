@@ -2,72 +2,94 @@
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
 
-<h1>Hi 👋, I'm Veerbhan Singh Tomar</h1>
-<h3>.NET Full Stack Developer | 8+ Years Experience | Building Scalable Web Applications</h3>
+<h1>Hi 👋 I'm Veerbhan Singh Tomar</h1>
+
+<h3>Senior .NET Full Stack Developer | ASP.NET Core | Web API | SQL Server</h3>
 
 <p>
-Passionate about creating modern web applications using 
-<strong>.NET Core, ASP.NET MVC, C#, SQL Server, and JavaScript</strong>.
+Experienced <b>.NET Developer with 8+ years</b> building scalable web applications, APIs,
+and enterprise solutions using <b>ASP.NET Core, MVC, C#, SQL Server, and JavaScript</b>.
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=veerbhansinghtomar&label=Profile%20Views&color=blue&style=flat"/>
 
 </div>
 
 ---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/veerbhansinghtomar/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/c/WingTech">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://twitter.com/TomarVeerbhan">
-<img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter"/>
+</a>
+
+<a href="https://www.youtube.com/c/WingTech">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube"/>
 </a>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 💻 **Full Stack .NET Developer with 8+ years of experience**
-- 🚀 Specialized in **ASP.NET Core, MVC, Web API, SQL Server**
-- 🏗️ Experience building **Enterprise Applications & APIs**
-- 👨‍🏫 Mentoring junior developers and leading projects
-- 📚 Learning **Modern Web Architecture & Cloud Technologies**
-- ⚡ Passionate about **performance optimization & clean code**
+✔ Senior **Full Stack .NET Developer** with **8+ years experience**  
+✔ Expertise in **ASP.NET Core, MVC, Web API, SQL Server**  
+✔ Strong experience in **enterprise web applications**  
+✔ Experience in **API development & system architecture**  
+✔ Passionate about **clean code & scalable systems**  
+✔ Mentoring junior developers and leading development teams  
 
-📩 **Reach me:**  
-**LinkedIn:** https://www.linkedin.com/in/veerbhansinghtomar/
+📩 Contact: **LinkedIn Message**
 
 ---
 
-### 🛠️ Tech Stack
+# 🚀 Tech Stack
+
+### Backend
+- ASP.NET Core  
+- .NET MVC  
+- C#  
+- Web API  
+- Entity Framework  
+- ADO.NET  
+
+### Frontend
+- HTML5  
+- CSS3  
+- JavaScript  
+- Angular  
+
+### Database
+- SQL Server  
+- MySQL  
+
+### Tools
+- Git  
+- GitHub  
+- Visual Studio  
+- VS Code  
+- Azure  
+
+---
+
+# 🛠 Languages & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,js,html,css,bootstrap,angular,react,nodejs,mysql,git,github,vscode,azure" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,js,html,css,bootstrap,angular,react,mysql,git,github,vscode,azure" />
 
 </div>
 
 ---
 
-### 🚀 Core Technologies
-
-- **Backend:** ASP.NET Core, .NET MVC, Web API, C#
-- **Frontend:** HTML, CSS, JavaScript, Angular
-- **Database:** SQL Server, MySQL
-- **Architecture:** REST API, N-Tier Architecture
-- **Tools:** Git, Visual Studio, VS Code
-- **Other:** SEO, Web Performance Optimization
-
----
-
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -81,21 +103,31 @@ Passionate about creating modern web applications using
 
 ---
 
-### ✍️ Latest Blog Posts
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark"/>
+
+</div>
+
+---
+
+# 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-### 💡 Quote I Believe In
+# 💡 Developer Quote
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson
 
 ---
 
 <div align="center">
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+⭐ **If you like my projects, give them a star!**
 
 </div>
