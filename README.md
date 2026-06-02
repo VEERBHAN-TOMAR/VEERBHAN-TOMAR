@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <a href="https://github.com/VEERBHAN-TOMAR">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+.NET+Full+Stack+Developer+%F0%9F%9A%80;8%2B+Years+of+Enterprise+Development+%F0%9F%92%BC;ASP.NET+Core+%7C+C%23+%7C+Web+API+Expert+%E2%9C%85;Building+Scalable+%26+Clean+Architecture+%F0%9F%8F%97%EF%B8%8F;Passionate+Mentor+%26+Tech+Leader+%F0%9F%8C%9F" alt="Typing SVG" />
-</a>a>
+</a>
 
 <br/>
 
