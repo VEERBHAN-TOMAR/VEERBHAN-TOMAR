@@ -150,7 +150,7 @@ public class VeerbhanSinghTomar : SeniorDotNetDeveloper
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VEERBHAN-TOMAR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-</div>div>
+</div>
 
 ---
 
@@ -158,7 +158,7 @@ public class VeerbhanSinghTomar : SeniorDotNetDeveloper
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VEERBHAN-TOMAR&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true"/>
-</div>div>
+</div>
 
 ---
 
