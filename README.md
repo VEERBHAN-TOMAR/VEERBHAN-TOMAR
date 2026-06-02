@@ -129,7 +129,7 @@ public class VeerbhanSinghTomar : SeniorDotNetDeveloper
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,js,ts,html,css,bootstrap,angular,react,mysql,git,github,vscode,azure,docker,redis,postman&perline=9&theme=dark"/>
-</div>div>
+</div>
 
 ---
 
